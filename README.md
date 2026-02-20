@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Isabella 😊👋🏻
+
+I'm majoring in environmental science with a concentration in applied ecology, and I have a minor in information sciences and technology. I'm on track to complete a Professional Science Masters in geospatial technologies.
+
+I’m interested in the connections between earth science, sustainability, and technology, especially finding ways to use geospatial tools and data-driven approaches to support environmental problem-solving. I’ve always loved rocks and minerals, and my geology and ecology classes helped shape how I understand the natural world and our responsibility to protect it.
+
+I hope to build a career where I can make a meaningful impact, whether through environmental consulting, sustainability work, or applying technical skills to help communities and ecosystems. My HAZWOPER training is one small step toward being useful in real-world situations, and I’m excited to keep growing.
+
+Fun fact: I have a drone flying license 🌻
 
 <!--
 **215rios/215rios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
